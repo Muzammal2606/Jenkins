@@ -1,0 +1,28 @@
+.logo{
+    width: 280px;
+    height: 350px;
+    margin-left: 300px;
+}
+h1{ 
+    display: inline;
+    float: right;
+    margin-right: 400px;
+    font-size: 80px;
+    color: gray;
+    font-weight: bold;
+} 
+.col-md-5{
+    /* margin-right: 140px; */
+    float: right !important;
+}
+.str{
+    margin-right: 350px;
+    margin-left: -250px;
+}
+.down{
+    background-color: orange;
+}
+.btn-primary {
+    background: #d24939;
+    border: 0px;
+  }

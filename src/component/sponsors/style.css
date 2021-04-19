@@ -1,0 +1,76 @@
+#sponsorsblock {
+    padding: 1rem 2rem;
+  }
+  
+  #sponsorsblock ul, #sponsorsblock p {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  #sponsorsblock li {
+    display: inline;
+    padding: 1rem;
+  }
+  
+  .sponsors a:hover {
+    text-decoration: none;
+  }
+  .spon{
+      margin-left: -150px;
+      padding: 0px ;
+  }
+  .spon1{
+      width: 140px;
+      height: 120px;
+      
+      padding: 0px ;
+      
+  }
+  .spon2{
+      width: 300px;
+      height: 200px;
+      margin: 0%;
+      padding: 0px ;
+  }
+  .spon3{
+      width: 90px;
+      height: 70px;
+      margin: 0%;
+      padding: 0px ;
+  }
+  .spon4{
+      width: 200px;
+      height: 200px;
+      margin: 0%;
+      padding: 0px ;
+  }
+  .spon5{
+      width: 200px;
+      height: 70px;
+      margin: 0%;
+      padding: 0px ;
+  }
+  .spon6{
+      width: 300px;
+      height: 140px;
+      margin: 0%;
+      padding: 0px ;
+  }
+  .spon7{
+      width: 200px;
+      height: 200px;
+      margin: 0%;
+      padding: 0px ;
+  }
+  .supporters {
+    padding-top: 1.5rem;
+  }
+  
+  .supporters a {
+    font-weight: bold;
+  }
+  .jumbotron {
+    background-color: #F8F9FB;
+  }
+  
